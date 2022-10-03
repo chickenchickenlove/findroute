@@ -10,9 +10,11 @@
 # Tech Stack
 - docker, k8s, helm chart
 - Apache Kafka
-- Spring Boot, Spring MVC, Spring Batch, Spring Security, JPA, query DSL
+- Spring Boot, Spring MVC, Spring Batch, Spring Security
+- JPA, query DSL, Spring Jdbc, 
 - MySQL
 - Gradle
 - Thymeleaf, Bootstrap
 - Java(Main), Python(API Test), Shell Script(for server)
 - Github, Git
+- lombok
