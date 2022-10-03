@@ -14,3 +14,5 @@
 - MySQL
 - Gradle
 - Thymeleaf, Bootstrap
+- Java(Main), Python(API Test), Shell Script(for server)
+- Github, Git
